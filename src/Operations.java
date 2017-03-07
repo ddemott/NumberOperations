@@ -1,0 +1,4 @@
+
+public enum Operations {
+	PRIME_CHECK, PALINDROME_CHECK, EVEN_ODD_CHECK
+}
